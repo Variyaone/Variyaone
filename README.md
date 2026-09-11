@@ -6,9 +6,9 @@
 
 <h1>Hi, I'm Variya.</h1>
 
-<p><strong>让 AI 不止会回答，更能把事情做完。</strong></p>
+<p><strong>不会写代码的HR，使用AI做所有事</strong></p>
 
-<p>我把日常工作里的问题，做成 AI 工具、Skills 和工作流。这里记录我的动手实验：从技能创建、人格化 Agent，到简历筛选和自主编程。比起一段漂亮的回答，我更关心它能不能走完一个真实任务。</p>
+<p>把一些有意思的想法让AI实现。</p>
 
 <p><em>Building practical AI tools, reusable skills, and workflows that turn ideas into working things.</em></p>
 
@@ -27,7 +27,7 @@
   <li><a href="https://github.com/Variyaone/a-stock-advisor"><strong>A-Stock Advisor</strong></a> — 以 A 股研究为场景，测试 AI 拆解任务和自主编程。</li>
   <li><a href="https://github.com/Variyaone/WildQuest-Matrix"><strong>WildQuest Matrix</strong></a> — 数据、因子、回测与风控的量化研究实验。</li>
   <li><a href="https://github.com/Variyaone/variya-xhs-openskill01"><strong>OpenSkill 01</strong></a> — 内容创作、个人效率和工作流程的技能集合。</li>
-  <li><a href="https://github.com/Variyaone/JoyCode2Api"><strong>JoyCode2Api</strong></a> — JoyCode 与 Anthropic / OpenAI 格式的协议适配；Fork 自 <a href="https://github.com/vibe-coding-labs/JoyCode2Api">vibe-coding-labs/JoyCode2Api</a>。</li>
+  <li><a href="https://github.com/Variyaone/JoyCode2api-VABoost"><strong>JoyCode2Api</strong></a> — JoyCode 与 Anthropic / OpenAI 格式的协议适配；Fork 自 <a href="https://github.com/vibe-coding-labs/JoyCode2Api">vibe-coding-labs/JoyCode2Api</a>。</li>
 </ul>
 
 <h2 id="what-im-exploring">02 / What I'm exploring</h2>
@@ -40,7 +40,8 @@
 
 <h2 id="elsewhere">03 / Elsewhere</h2>
 
-<p>代码放在这里，也在这些地方分享：</p>
+<p>代码放在这里</p>
+<p>也在这些地方分享：</p>
 
 <ul>
   <li><strong>影响力动物</strong> — 公众号 · 知乎 · 抖音</li>
